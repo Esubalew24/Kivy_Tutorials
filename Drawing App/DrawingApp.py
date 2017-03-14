@@ -36,7 +36,7 @@ ScreenManagement:
     name: "main"
     Button:
         on_release: app.root.current = "other"
-        text: "Next Screen"
+        text: "Click Here to Draw"
         font_size: 50
 
 <AnotherScreen>:
